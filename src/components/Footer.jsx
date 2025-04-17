@@ -1,8 +1,5 @@
 import React, {useState} from 'react';
-import serverObject from "../config.js"
-import { isDisabled } from '@testing-library/user-event/dist/utils/index.js';
-import logo from '../images/logo.svg';
-import logo512 from '../images/logo512.png';
+
 
 
 function Footer(props) {
@@ -18,7 +15,7 @@ function Footer(props) {
             <li class="nav-item"><a href="/Responsibilities" class="nav-link px-2 text-body-secondary">Responsibilities</a></li>
             <li class="nav-item"><a href="/Highlights" class="nav-link px-2 text-body-secondary">Highlights</a></li>
             <li class="nav-item"><a href="/TimestampGenerator" class="nav-link px-2 text-body-secondary">Timestamps</a></li>
-            <li class="nav-item"><a href="/Beta" class="nav-link px-2 text-body-secondary">Beta</a></li>
+            <li class="nav-item"><a href="/Legal" class="nav-link px-2 text-body-secondary">Legal</a></li>
             </ul>
             <i><p class="text-center text-body-secondary">Created by Noay_HD1</p></i>
         </footer>

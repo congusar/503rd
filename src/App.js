@@ -23,7 +23,7 @@ import Deployments from './pages/QmcApprovedEvents.jsx';
 import TimestampGeneratorTest from './Test/TimestampGenerator.jsx';
 
 //assets
-import logo from './images/logo.svg';
+
 
 //utils
 import serverObject from "./config.js"
@@ -69,6 +69,7 @@ function App() {
             <Route path="/Deployments" exact>  
               <Deployments />
             </Route>
+
             <Route path="*" exact>
               <PageNotFound />
             </Route>

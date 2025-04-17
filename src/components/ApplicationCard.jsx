@@ -1,8 +1,5 @@
 import React, {useState} from 'react';
-import serverObject from "../config.js"
-import { isDisabled } from '@testing-library/user-event/dist/utils/index.js';
-import logo from '../images/logo.svg';
-import logo512 from '../images/logo512.png';
+
 import imagePlaceholder from '../images/PositionImagePlaceholder.png';
 
 

@@ -1,9 +1,8 @@
-import logo from '../images/logo.svg';
+
 import logoEPD from '../images/logo512EPD.png';
 import logoSRT from '../images/logo512SRT.png';
 import '../App.css';
 import CStaffCarousel from '../components/CStaffCarousel.jsx';
-import serverObject from "../config.js"
 import React, {useState} from 'react';
 import { Link } from 'react-router-dom/cjs/react-router-dom.min.js';
 import ApplicationCard from '../components/ApplicationCard.jsx';

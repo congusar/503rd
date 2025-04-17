@@ -1,7 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import Fuse from 'https://cdn.jsdelivr.net/npm/fuse.js@7.1.0/dist/fuse.mjs';
 
-import StandardModal from './StandardModal.jsx';
 
 
 function Searchbar(props) {
