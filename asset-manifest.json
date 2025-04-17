@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/503rd/static/css/main.49b7ef7b.css",
+    "main.js": "/503rd/static/js/main.2f526056.js",
+    "static/js/453.5565870f.chunk.js": "/503rd/static/js/453.5565870f.chunk.js",
+    "static/media/HelicopterWedge.png": "/503rd/static/media/HelicopterWedge.6e6b1ee65a4c57aad2d8.png",
+    "static/media/logo512.png": "/503rd/static/media/logo512.52833a70a1dee653b327.png",
+    "static/media/logo512EPD.png": "/503rd/static/media/logo512EPD.ef9c7b75402f411d243f.png",
+    "static/media/Lv_visit_card.png": "/503rd/static/media/Lv_visit_card.ddeef6e38f37da94636f.png",
+    "static/media/logo512SRT.png": "/503rd/static/media/logo512SRT.62a10ab09df7a51e1cfc.png",
+    "static/media/Acu_visit_card.png": "/503rd/static/media/Acu_visit_card.5a0bacf546d30d78c9f6.png",
+    "static/media/PositionImagePlaceholder.png": "/503rd/static/media/PositionImagePlaceholder.66ae50172f799469c348.png",
+    "static/media/FaceImagePlaceholder.png": "/503rd/static/media/FaceImagePlaceholder.5fb2eec92533505e794d.png",
+    "static/media/Fake_Text_Chat_With_boss_by_aicut.png": "/503rd/static/media/Fake_Text_Chat_With_boss_by_aicut.55b551bf0d0c08baf121.png",
+    "index.html": "/503rd/index.html",
+    "main.49b7ef7b.css.map": "/503rd/static/css/main.49b7ef7b.css.map",
+    "main.2f526056.js.map": "/503rd/static/js/main.2f526056.js.map",
+    "453.5565870f.chunk.js.map": "/503rd/static/js/453.5565870f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b7ef7b.css",
+    "static/js/main.2f526056.js"
+  ]
+}
