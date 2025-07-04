@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/503rd/static/css/main.348e5281.css",
-    "main.js": "/503rd/static/js/main.e3d0896c.js",
+    "main.js": "/503rd/static/js/main.95bfd991.js",
     "static/js/453.5565870f.chunk.js": "/503rd/static/js/453.5565870f.chunk.js",
     "static/media/JointTour_18.04.25.png": "/503rd/static/media/JointTour_18.04.25.cb3babc0658e0cdab203.png",
     "static/media/Highlight19.04.25.png": "/503rd/static/media/Highlight19.04.25.4c46e19755b835f3807c.png",
@@ -29,11 +29,11 @@
     "static/media/Army Commendation.svg": "/503rd/static/media/Army Commendation.d0c8457e1db618a0be47e37c83a4fde4.svg",
     "static/media/Army Overseas Service.svg": "/503rd/static/media/Army Overseas Service.597a7315270758ec726934169c961cbe.svg",
     "main.348e5281.css.map": "/503rd/static/css/main.348e5281.css.map",
-    "main.e3d0896c.js.map": "/503rd/static/js/main.e3d0896c.js.map",
+    "main.95bfd991.js.map": "/503rd/static/js/main.95bfd991.js.map",
     "453.5565870f.chunk.js.map": "/503rd/static/js/453.5565870f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.348e5281.css",
-    "static/js/main.e3d0896c.js"
+    "static/js/main.95bfd991.js"
   ]
 }
