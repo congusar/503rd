@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/503rd/static/css/main.348e5281.css",
-    "main.js": "/503rd/static/js/main.94eff1e5.js",
+    "main.js": "/503rd/static/js/main.e3d0896c.js",
     "static/js/453.5565870f.chunk.js": "/503rd/static/js/453.5565870f.chunk.js",
     "static/media/JointTour_18.04.25.png": "/503rd/static/media/JointTour_18.04.25.cb3babc0658e0cdab203.png",
     "static/media/Highlight19.04.25.png": "/503rd/static/media/Highlight19.04.25.4c46e19755b835f3807c.png",
+    "static/media/Deployment_04.07.25.png": "/503rd/static/media/Deployment_04.07.25.274907bb27a116b18eb1.png",
     "static/media/Deployment_21.04.25.png": "/503rd/static/media/Deployment_21.04.25.a61d0dad59117238bf9d.png",
     "static/media/HelicopterWedge.png": "/503rd/static/media/HelicopterWedge.6e6b1ee65a4c57aad2d8.png",
     "static/media/logo512.png": "/503rd/static/media/logo512.52833a70a1dee653b327.png",
+    "static/media/HowToDealWithATroller.png": "/503rd/static/media/HowToDealWithATroller.e281bec6bd5e6f8a0143.png",
     "static/media/logo512EPD.png": "/503rd/static/media/logo512EPD.ef9c7b75402f411d243f.png",
     "static/media/Lv_visit_card.png": "/503rd/static/media/Lv_visit_card.ddeef6e38f37da94636f.png",
     "static/media/logo512SRT.png": "/503rd/static/media/logo512SRT.62a10ab09df7a51e1cfc.png",
@@ -27,11 +29,11 @@
     "static/media/Army Commendation.svg": "/503rd/static/media/Army Commendation.d0c8457e1db618a0be47e37c83a4fde4.svg",
     "static/media/Army Overseas Service.svg": "/503rd/static/media/Army Overseas Service.597a7315270758ec726934169c961cbe.svg",
     "main.348e5281.css.map": "/503rd/static/css/main.348e5281.css.map",
-    "main.94eff1e5.js.map": "/503rd/static/js/main.94eff1e5.js.map",
+    "main.e3d0896c.js.map": "/503rd/static/js/main.e3d0896c.js.map",
     "453.5565870f.chunk.js.map": "/503rd/static/js/453.5565870f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.348e5281.css",
-    "static/js/main.94eff1e5.js"
+    "static/js/main.e3d0896c.js"
   ]
 }
